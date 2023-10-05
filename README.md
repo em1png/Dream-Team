@@ -1,8 +1,30 @@
-# React + Vite
+# Dota2 Dream Team Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Small web application that allows users to build their dream team from Dota 2 players.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> [GitHub Pages](https://em1png.github.io/Dream-Team/).
+
+## Technologies
+Project is created with:
+* React.js
+* Redux
+* Tailwind CSS
+* Vite
+
+## Installation
+To run this application locally, follow these steps:
+
+```
+$ git clone https://github.com/em1png/Dream-Team
+$ cd Dream-Team
+$ npm install
+$ npm run dev
+```
+
+## Screenshots
+![alt text](https://i.imgur.com/kScExHo.png)
+![alt text](https://i.imgur.com/781baoq.png)
+
+
