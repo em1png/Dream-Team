@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "nickname": "Yatoro",
+      "avatar": "./images/Yatoro.png",
+      "position": "Carry",
+      "team": "Team Spirit",
+      "country": "Ukraine",
+      "tags": ["TI Champ"],
+      "earning": 5084603
+    },
+    {
+        "id": 2,
+        "nickname": "Larl",
+        "avatar": "./images/Larl.png",
+        "position": "Mid",
+        "team": "Team Spirit",
+        "country": "Russia",
+        "tags": [],
+        "earning": 1140258
+      },
+      {
+        "id": 3,
+        "nickname": "Collapse",
+        "avatar": "./images/Collapse.png",
+        "position": "Offlane",
+        "team": "Team Spirit",
+        "country": "Russia",
+        "tags": [],
+        "earning": 5086817
+      },
+      {
+        "id": 4,
+        "nickname": "Mira",
+        "avatar": "./images/Mira.png",
+        "position": "Soft support",
+        "team": "Team Spirit",
+        "country": "Ukraine",
+        "tags": [],
+        "earning": 5071732
+      },
+      {
+        "id": 5,
+        "nickname": "Miposhka",
+        "avatar": "./images/Miposhka.png",
+        "position": "Hard support",
+        "team": "Team Spirit",
+        "country": "Russia",
+        "tags": [],
+        "earning": 5325736
+      },
+      {
+        "id": 6,
+        "nickname": "Nightfall",
+        "avatar": "./images/Nightfall.png",
+        "position": "Carry",
+        "team": "BetBoom Team",
+        "country": "Russia",
+        "tags": [],
+        "earning": 763144
+      },
+      {
+        "id": 7,
+        "nickname": "gpk",
+        "avatar": "./images/gpk.png",
+        "position": "Mid",
+        "team": "BetBoom Team",
+        "country": "Russia",
+        "tags": [],
+        "earning": 698913
+      },
+      {
+        "id": 8,
+        "nickname": "Pure",
+        "avatar": "./images/Pure.png",
+        "position": "Offlane",
+        "team": "BetBoom Team",
+        "country": "Russia",
+        "tags": [],
+        "earning": 337705
+      },
+      {
+        "id": 9,
+        "nickname": "Save",
+        "avatar": "./images/Save.png",
+        "position": "Soft support",
+        "team": "BetBoom Team",
+        "country": "Moldova",
+        "tags": [],
+        "earning": 656516
+      },
+      {
+        "id": 10,
+        "nickname": "TORONTOTOKYO",
+        "avatar": "./images/TORONTOTOKYO.png",
+        "position": "Hard support",
+        "team": "BetBoom Team",
+        "country": "Russia",
+        "tags": [],
+        "earning": 4222051
+      },
+      {
+        "id": 11,
+        "nickname": "RAMZES666",
+        "avatar": "./images/Ramzes.png",
+        "position": "Carry",
+        "team": "9Pandas",
+        "country": "Russia",
+        "tags": [],
+        "earning": 2050700
+      },
+      {
+        "id": 12,
+        "nickname": "kiyotaka",
+        "avatar": "./images/kiyotaka.png",
+        "position": "Mid",
+        "team": "9Pandas",
+        "country": "Russia",
+        "tags": [],
+        "earning": 242545
+      },
+      {
+        "id": 13,
+        "nickname": "Miero",
+        "avatar": "./images/miero.png",
+        "position": "Offlane",
+        "team": "9Pandas",
+        "country": "Russia",
+        "tags": [],
+        "earning": 234559
+      },
+      {
+        "id": 14,
+        "nickname": "Antares",
+        "avatar": "./images/antares.png",
+        "position": "Soft support",
+        "team": "9Pandas",
+        "country": "Russia",
+        "tags": [],
+        "earning": 226074
+      },
+      {
+        "id": 15,
+        "nickname": "Solo",
+        "avatar": "./images/solo.png",
+        "position": "Hard support",
+        "team": "9Pandas",
+        "country": "Russia",
+        "tags": [],
+        "earning": 2029401
+      }
+  ]
